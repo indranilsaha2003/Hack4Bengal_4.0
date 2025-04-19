@@ -1,4 +1,4 @@
-#How to run:#
+# How to run:
 1. Open terminal in the root directory.
 2. Run "npm install"
 3. Run "npm run dev"
